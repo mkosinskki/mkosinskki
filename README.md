@@ -1,5 +1,5 @@
-<img src="https://imgur.com/a/zGVTnmJ" alt="parrot" width="200" align="right" />
+<img src="https://i.imgur.com/YWVR1hO.png" alt="parrot" width="200" align="right" />
 
-###Contact
+### Contact
 
 mkosinskki@gmail.com
