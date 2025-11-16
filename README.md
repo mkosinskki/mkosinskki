@@ -2,4 +2,4 @@
 
 ### Contact
 
-mkosinskki@gmail.com
+mkosinskki[at]gmail.com
