@@ -16,7 +16,7 @@ I'm looking for an **internship or junior role** in frontend/fullstack or DevOps
 | Project | What it is |
 |---|---|
 | [lightcandle.pl](https://lightcandle.pl/) | Online shop for a client. I did the visual design, the frontend and the deployment on an OVH server. |
-| [myPage](https://github.com/mkosinskki/myPage) | My personal website: [marcinkosinski.dev](https://www.mkosinski-dev/) (Vue). |
+| [myPage](https://github.com/mkosinskki/myPage) | My personal website: [marcinkosinski.dev](https://www.marcinkosinski.dev/) (Vue). |
 | [zaraWedding](https://github.com/mkosinskki/zaraWedding) | Wedding invitation one-pager built in Vue 3. |
 
 ## Currently learning
