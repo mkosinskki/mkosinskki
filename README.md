@@ -25,6 +25,6 @@ Linux administration, networking, containers, CI/CD, Infrastructure as Code, mon
 
 ## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcinkosinski)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mkosinski-dev/)
 - 🌐 [marcinkosinski.dev](https://www.marcinkosinski.dev/)
 - ✉️ mkosinskki[at]gmail.com
