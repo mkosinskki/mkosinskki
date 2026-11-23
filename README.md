@@ -1,27 +1,28 @@
 # Hi, I'm Marcin 👋
 
-IT student at Białystok University of Technology, building web apps and learning DevOps by trying to create my home lab.
+I'm an IT student at Białystok University of Technology focused on building clean, responsive web applications with **Nuxt**, **Vue 3**, and **Tailwind CSS**. Currently expanding my skills into **React** and **backend development** to grow toward a fullstack role.
 
-I'm looking for an **internship or junior role** in frontend/fullstack or DevOps.
+I'm actively looking for an **internship or junior position** in **Frontend** or **Fullstack** development.
 
-## What I do
+## Tech Stack
 
-- **Frontend:** Vue 3, Nuxt, JavaScript, Tailwind CSS
-- **Backend basics:** Node.js, Express, REST APIs
-- **Deployment:** Linux servers, Nginx, HTTPS (Let's Encrypt), SSH hardening, Docker
-- **Tools:** Git, GitHub
+- **Frontend:** JavaScript, Nuxt, Vue 3, Tailwind CSS
+- **Currently learning:** React, Node.js, Express, REST APIs, relational databases
+- **Tools & Deployment:** Git, GitHub, Docker, Linux (VPS), Nginx, HTTPS (Let's Encrypt)
 
-## Projects
+## Featured Projects
 
-| Project | What it is |
-|---|---|
-| [lightcandle.pl](https://lightcandle.pl/) | Online shop for a client. I did the visual design, the frontend and the deployment on an OVH server. |
-| [myPage](https://github.com/mkosinskki/myPage) | My personal website: [marcinkosinski.dev](https://www.marcinkosinski.dev/) (Vue). |
-| [zaraWedding](https://github.com/mkosinskki/zaraWedding) | Wedding invitation one-pager built in Vue 3. |
+| Project | Description | Stack |
+|---|---|---|
+| [**lightcandle.pl**](https://lightcandle.pl/) | Production online shop built for a real client — handled UI design, frontend implementation, and VPS deployment. | Frontend, UI Design, VPS / Nginx |
+| [**myPage**](https://github.com/mkosinskki/myPage) | Personal portfolio website ([marcinkosinski.dev](https://www.marcinkosinski.dev/)). | Nuxt, Tailwind CSS |
+| [**zaraWedding**](https://github.com/mkosinskki/zaraWedding) | Responsive wedding invitation one-pager with custom layout and interactions. | Vue 3, Tailwind CSS |
 
-## Currently learning
+## Currently Focusing On
 
-Linux administration, networking, containers, CI/CD, Infrastructure as Code, monitoring.
+- Building projects in **React** alongside my **Nuxt / Vue** stack
+- Learning backend fundamentals: REST APIs, authentication, and databases
+- Accessibility (a11y), mobile-first UX, and clean JavaScript architecture
 
 ## Contact
 
