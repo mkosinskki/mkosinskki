@@ -15,7 +15,7 @@ I'm actively looking for an **internship or junior position** in **Frontend** or
 | Project | Description | Stack |
 |---|---|---|
 | [**lightcandle.pl**](https://lightcandle.pl/) | Production online shop built for a real client — handled UI design, frontend implementation, and VPS deployment. | Frontend, UI Design, VPS / Nginx |
-| [**myPage**](https://github.com/mkosinskki/myPage) | Personal portfolio website ([marcinkosinski.dev](https://www.marcinkosinski.dev/)). | Nuxt, Tailwind CSS |
+| [**nuxtMyPage**](https://github.com/mkosinskki/nuxtMyPage) | Personal portfolio website ([marcinkosinski.dev](https://www.marcinkosinski.dev/)). | Nuxt, Tailwind CSS |
 | [**zaraWedding**](https://github.com/mkosinskki/zaraWedding) | Responsive wedding invitation one-pager with custom layout and interactions. | Vue 3, Tailwind CSS |
 
 ## Currently Focusing On
